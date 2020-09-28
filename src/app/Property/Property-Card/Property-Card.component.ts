@@ -11,7 +11,8 @@ export class PropertyCardComponent implements OnInit
       "Id": 1,
       "Type": "House",
       "Price": 15000,
-      "Image":"DefaultHouse.jpg"
+      "Image":"DefaultHouse.jpg",
+      "Address":"4th Ramsys Street"
    };
    
    constructor() 
